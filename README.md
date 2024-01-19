@@ -1,1 +1,1 @@
-# coding-with-c++-
+Let's code with C.
